@@ -1,0 +1,33 @@
+main.pbi: \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ystdio.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Threads.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\xencoding_limits.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stdio.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\main.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_wwdg.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_uart1.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_tim4.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_tim2.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_tim1.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_spi.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_rst.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_iwdg.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_itc.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_i2c.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_gpio.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_flash.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_exti.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_clk.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_beep.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_awu.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\driver\inc\stm8s_adc1.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\stm8s_conf.h \
+  D:\BK9521_BK9522\MICRO_TAU_KHUA\working_i2c_sniffer3\main.c
